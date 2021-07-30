@@ -1,0 +1,237 @@
+[
+    {
+        "id": "b24c6305-4ad2-49fa-af13-4cc1d42b01e7",
+        "title": "France - Grid Electricity - 2020 - grid - consumption",
+        "original-title": "Electricité - 2020 - mix moyen - consommation",
+
+        "comment": "",
+        "originalComment": "L'amont comprend ici : l'amont des combustibles, l'amortissement de la centrale et les émissions annexes de fonctionnement",
+
+        "value": 0.0599,
+        "unit": "kgCO2e/kWh",
+
+        "subdata": [
+            {
+                "title": "",
+                "originalTitle": "Amont (combustibles)",
+                "value": 0.0138,
+                "unit": "kgCO2e/kWh"
+            },
+            {
+                "title": "",
+                "originalTitle": "Combustion à la centrale",
+                "value": 0.0407,
+                "unit": "kgCO2e/kWh"
+            },
+            {
+                "title": "",
+                "originalTitle": "Transport et distribution (Pertes)",
+                "value": 5.40E-3,
+                "unit": "kgCO2e/kWh"
+            }
+
+        ],
+
+        "uncertainty": "10%",
+
+        "country": "fr",
+
+        "link": {
+            "href": "https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/categorie/64#",
+            "lang": "fr"
+        },
+
+        "dateStartValidity": "2020-01-01",
+        "dateEndValidity": "2020-12-31",
+
+        "provider": "ADEME"
+    },
+    {
+        "id": "34ce6296-bf7d-43ac-a91f-3522ae17be94",
+        "title": "France - Grid Electricity - 2019 - average - consumption",
+        "original-title": "Electricité - 2019 - mix moyen - consommation",
+
+        "comment": "",
+        "originalComment": "L'amont comprend ici : l'amont des combustibles, l'amortissement de la centrale et les émissions annexes de fonctionnement",
+
+        "value": 0.0607,
+        "unit": "kgCO2e/kWh",
+
+        "subdata": [
+            {
+                "title": "",
+                "originalTitle": "Amont (combustibles)",
+                "value": 0.0135,
+                "unit": "kgCO2e/kWh"
+            },
+            {
+                "title": "",
+                "originalTitle": "Combustion à la centrale",
+                "value": 0.0418,
+                "unit": "kgCO2e/kWh"
+            },
+            {
+                "title": "",
+                "originalTitle": "Transport et distribution (Pertes)",
+                "value": 5.40E-3,
+                "unit": "kgCO2e/kWh"
+            }
+
+        ],
+
+        "uncertainty": "10%",
+
+        "country": "fr",
+
+        "link": {
+            "href": "https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/categorie/64#",
+            "lang": "fr"
+        },
+
+        "dateStartValidity": "2019-01-01",
+        "dateEndValidity": "2019-12-31",
+
+        "provider": "ADEME"
+    },
+    {
+        "id": "31d23834-6a70-4d78-9104-dad359a365f9",
+        "title": "France - Grid Electricity - 2018 - average - consumption",
+        "original-title": "Electricité - 2018 - mix moyen - consommation",
+
+        "comment": "",
+        "originalComment": "L'amont comprend ici : l'amont des combustibles, l'amortissement de la centrale et les émissions annexes de fonctionnement",
+
+        "value": 0.0571,
+        "unit": "kgCO2e/kWh",
+
+        "subdata": [
+            {
+                "title": "",
+                "originalTitle": "Amont (combustibles)",
+                "value": 0.0125,
+                "unit": "kgCO2e/kWh"
+            },
+            {
+                "title": "",
+                "originalTitle": "Combustion à la centrale",
+                "value": 0.0395,
+                "unit": "kgCO2e/kWh"
+            },
+            {
+                "title": "",
+                "originalTitle": "Transport et distribution (Pertes)",
+                "value": 5.10E-3,
+                "unit": "kgCO2e/kWh"
+            }
+
+        ],
+
+        "uncertainty": "10%",
+
+        "country": "fr",
+
+        "link": {
+            "href": "https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/categorie/64#",
+            "lang": "fr"
+        },
+
+        "dateStartValidity": "2018-01-01",
+        "dateEndValidity": "2018-12-31",
+
+        "provider": "ADEME"
+    },
+    {
+        "id": "5a36f444-2dac-4ae9-b190-8cabf5cf0393",
+        "title": "France - Grid Electricity - 2017 - average - consumption",
+        "original-title": "Electricité - 2017 - mix moyen - consommation",
+
+        "comment": "",
+        "originalComment": "L'amont comprend ici : l'amont des combustibles, l'amortissement de la centrale et les émissions annexes de fonctionnement",
+
+        "value": 0.0558,
+        "unit": "kgCO2e/kWh",
+
+        "subdata": [
+            {
+                "title": "",
+                "originalTitle": "Amont (combustibles)",
+                "value": 0.0118,
+                "unit": "kgCO2e/kWh"
+            },
+            {
+                "title": "",
+                "originalTitle": "Combustion à la centrale",
+                "value": 0.0389,
+                "unit": "kgCO2e/kWh"
+            },
+            {
+                "title": "",
+                "originalTitle": "Transport et distribution (Pertes)",
+                "value": 5.10E-3,
+                "unit": "kgCO2e/kWh"
+            }
+
+        ],
+
+        "uncertainty": "10%",
+
+        "country": "fr",
+
+        "link": {
+            "href": "https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/categorie/64#",
+            "lang": "fr"
+        },
+
+        "dateStartValidity": "2017-01-01",
+        "dateEndValidity": "2017-12-31",
+
+        "provider": "ADEME"
+    },
+    {
+        "id": "9cf398a6-2a66-4135-bf1d-4cb6389bdd7d",
+        "title": "France - Grid Electricity - 2016 - average - consumption",
+        "original-title": "Electricité - 2016 - mix moyen - consommation",
+
+        "comment": "",
+        "originalComment": "L'amont comprend ici : l'amont des combustibles, l'amortissement de la centrale et les émissions annexes de fonctionnement",
+
+        "value": 0.0573,
+        "unit": "kgCO2e/kWh",
+
+        "subdata": [
+            {
+                "title": "",
+                "originalTitle": "Amont (combustibles)",
+                "value": 0.0115,
+                "unit": "kgCO2e/kWh"
+            },
+            {
+                "title": "",
+                "originalTitle": "Combustion à la centrale",
+                "value": 0.0405,
+                "unit": "kgCO2e/kWh"
+            },
+            {
+                "title": "",
+                "originalTitle": "Transport et distribution (Pertes)",
+                "value": 5.30E-3,
+                "unit": "kgCO2e/kWh"
+            }
+
+        ],
+
+        "uncertainty": "10%",
+
+        "country": "fr",
+
+        "link": {
+            "href": "https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element/categorie/64#",
+            "lang": "fr"
+        },
+
+        "dateStartValidity": "2016-01-01",
+        "dateEndValidity": "2016-12-31",
+
+        "provider": "ADEME"
+    }
+]

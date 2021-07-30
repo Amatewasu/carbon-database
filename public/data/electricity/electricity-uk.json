@@ -1,0 +1,102 @@
+[
+    {
+        "id": "a82c6b69-1df2-438e-a536-d983d08fac3a",
+        "title": "United Kingdom - Grid Electricity - 2019 - grid - consumption",
+        "original-title": "United Kingdom - Grid Electricity - 2019 - grid - consumption",
+
+        "comment": "",
+        "originalComment": "",
+
+        "value": 0.23112,
+        "unit": "kgCO2e/kWh",
+
+        "uncertainty": "unknown",
+
+        "country": "uk",
+
+        "link": {
+            "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/990675/2021-ghg-conversion-factors-methodology.pdf",
+            "lang": "en"
+        },
+
+        "dateStartValidity": "2019-01-01",
+        "dateEndValidity": "2019-12-31",
+
+        "provider": "Department for Business, Energy & Industrial Strategy - UK"
+    },
+    {
+        "id": "71db30ba-b98e-4468-bb71-13d4a247cba2",
+        "title": "United Kingdom - Grid Electricity - 2018 - grid - consumption",
+        "original-title": "United Kingdom - Grid Electricity - 2018 - grid - consumption",
+
+        "comment": "",
+        "originalComment": "",
+
+        "value": 0.25319,
+        "unit": "kgCO2e/kWh",
+
+        "uncertainty": "unknown",
+
+        "country": "uk",
+
+        "link": {
+            "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/990675/2021-ghg-conversion-factors-methodology.pdf",
+            "lang": "en"
+        },
+
+        "dateStartValidity": "2018-01-01",
+        "dateEndValidity": "2018-12-31",
+
+        "provider": "Department for Business, Energy & Industrial Strategy - UK"
+    },
+    {
+        "id": "760cf75e-85b1-4d66-be64-6bafdf6d5edb",
+        "title": "United Kingdom - Grid Electricity - 2017 - grid - consumption",
+        "original-title": "United Kingdom - Grid Electricity - 2017 - grid - consumption",
+
+        "comment": "",
+        "originalComment": "",
+
+        "value": 0.2773,
+        "unit": "kgCO2e/kWh",
+
+        "uncertainty": "unknown",
+
+        "country": "uk",
+
+        "link": {
+            "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/990675/2021-ghg-conversion-factors-methodology.pdf",
+            "lang": "en"
+        },
+
+        "dateStartValidity": "2017-01-01",
+        "dateEndValidity": "2017-12-31",
+
+        "provider": "Department for Business, Energy & Industrial Strategy - UK"
+    },
+    {
+        "id": "286f2baf-c177-4271-aa6c-10a4b08dd1ef",
+        "title": "United Kingdom - Grid Electricity - 2016 - grid - consumption",
+        "original-title": "United Kingdom - Grid Electricity - 2016 - grid - consumption",
+
+        "comment": "",
+        "originalComment": "",
+
+        "value": 0.3072,
+        "unit": "kgCO2e/kWh",
+
+        "uncertainty": "unknown",
+
+        "country": "uk",
+
+        "link": {
+            "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/990675/2021-ghg-conversion-factors-methodology.pdf",
+            "lang": "en"
+        },
+
+        "dateStartValidity": "2016-01-01",
+        "dateEndValidity": "2016-12-31",
+
+        "provider": "Department for Business, Energy & Industrial Strategy - UK"
+    }
+]

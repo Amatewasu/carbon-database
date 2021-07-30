@@ -14,3 +14,22 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.country-icon-container {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.feather {
+  width: 24px;
+  height: 24px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
+
+a.source-data {
+  margin-left: 10px;
+}
